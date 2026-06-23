@@ -1,0 +1,13 @@
+[project]
+name = "1-etl-portfolio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.31.0",
+    "logger>=1.4",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "streamlit>=1.50.0",
+]
