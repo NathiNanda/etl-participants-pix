@@ -88,3 +88,9 @@ Execute o Streamlit para abrir a visualização interativa no seu navegador:
 ```bash
 streamlit run dashboard.py
 ```
+
+<img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/291e5070-96d3-43b0-a3ea-cdfaa6caf459" />
+
+<img width="1902" height="862" alt="image" src="https://github.com/user-attachments/assets/918a55b2-a820-4cfe-9783-86fab327aeec" />
+
+
